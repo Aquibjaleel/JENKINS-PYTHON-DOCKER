@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "YOUR_DOCKERHUB_USERNAME/aquib-python-app"
+        IMAGE_NAME = "aquib111/aquib-python-app"
         IMAGE_TAG = "latest"
     }
 
